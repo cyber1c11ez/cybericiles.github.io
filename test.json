@@ -1,12 +1,10 @@
 {
-  "array": [
-    {
-      "id": 1,
-      "title": "Title 1"
-    },
-    {
-      "id": 2,
-      "title": "Title 2"
-    }
-  ]
+    "number": 10,
+    "text": "Hello!",
+    "list": ["One", "Two", "Three"],
+    "object": {"model": "x17", "price": "$99"},
+    "mixed": [
+        {"city": "Los Gamburger", "street": "Florence Avenue"},
+        {"city": "St. Potato", "street": "Glendale Boulevard"}
+    ]
 }
