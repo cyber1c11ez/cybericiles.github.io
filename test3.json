@@ -1,0 +1,15 @@
+{
+  "Addresses": [
+    "улица Барклая, дом 444, корпус 24",
+    "улица Суворова, дом 555, корпус 25"
+  ],
+  "Information": {
+    "LJ": [
+      {"name": "Optimyss X1", "price": "$10"},
+      {"name": "Optimyss X2", "price": "$20"}
+    ],
+    "Samsyng": [
+      {"name": "Galaktiko 17", "price": "$50"}
+    ]
+  }
+}
