@@ -1,8 +1,8 @@
 {
-  "recommendation.content": [
+  "recommendation_content": [
     {
       "name": "Ресторан по понятиям",
-      "id.id": 17737,
+      "id": 17737,
       "url": "https://premier.one/show/restoran-po-ponyatiyam",
       "url_series": "https://premier.one/show/restoran-po-ponyatiyam/season/1/video/1e9150c85f944066e76c8c3a3219fab5",
       "episode": 1,
